@@ -304,7 +304,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [DorafinaTech](https://github.com/DorafinaTech)
   - [Dhruv Sahu](https://github.com/dhruvsahu611)
   
-  | [`Back To Top`](#contents) |
+  | [`Back To Top`](#contents) |.
 
 
 - ### **E**
